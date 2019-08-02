@@ -3,9 +3,9 @@ entries:
   wordpress:
   - apiVersion: v1
     appVersion: 5.2.2
-    created: "2019-08-01T23:50:04.380444-04:00"
+    created: "2019-08-02T00:08:29.436429-04:00"
     description: Web publishing platform for building blogs and websites.
-    digest: 8f2d0c3a7a35ece499a4006620729f87aa1c2ca602c8aa4c5fc77ba746e19a8d
+    digest: ec6d5a3b783629e64486130c418998d61a3751d33a5aa936e46cadce07cdfbec
     engine: gotpl
     home: http://www.wordpress.com/
     icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
@@ -26,4 +26,4 @@ entries:
     urls:
     - https://markhilton.github.io/helm/wordpress-5.13.1.tgz
     version: 5.13.1
-generated: "2019-08-01T23:50:04.377423-04:00"
+generated: "2019-08-02T00:08:29.431839-04:00"
